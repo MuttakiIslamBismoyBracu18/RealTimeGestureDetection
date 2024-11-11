@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>ilikeyou.1663991a-923d-11ee-973b-8c554acf0908.jpg</filename>
+	<path>E:\1-1\CIS611\Project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\ilikeyou.1663991a-923d-11ee-973b-8c554acf0908.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ilikeyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>241</ymin>
+			<xmax>318</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>
